@@ -3,7 +3,7 @@
     "short_name": "Search Me!",
     "start_url": ".",
     "background_color": "#fff",
-    "theme_color": "#3cba54",
+    "theme_color": "#00aaff",
     "display": "standalone",
     "icons": [
         {
