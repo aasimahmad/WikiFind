@@ -1,6 +1,6 @@
 {
-    "name": "Search Me!",
-    "short_name": "Search Me!",
+    "name": "WikiFind",
+    "short_name": "WikiFind",
     "start_url": ".",
     "background_color": "#fff",
     "theme_color": "#00aaff",
