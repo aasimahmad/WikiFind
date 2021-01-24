@@ -1,4 +1,4 @@
 # WikiFind
 Wikipedia powered search engine
 
-### Live Demo: https://quizzical-heyrovsky-f9bc2c.netlify.app
+### Live Demo: https://wikifind-app.netlify.app
